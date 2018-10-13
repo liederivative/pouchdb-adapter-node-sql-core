@@ -1,12 +1,12 @@
-pouchdb-adapter-websql-core ![semver non-compliant](https://img.shields.io/badge/semver-non--compliant-red.svg)
+pouchdb-adapter-node-sql-core ![semver non-compliant](https://img.shields.io/badge/semver-non--compliant-red.svg)
 ======
 
-Underlying adapter code for WebSQL and SQLite-based PouchDB adapters.
+Based on the underlying adapter code for WebSQL and SQLite-based PouchDB adapters.
 
 ### Usage
 
 ```bash
-npm install --save-exact pouchdb-adapter-websql-core
+npm install --save-exact github:liederivative/pouchdb-adapter-node-sql-core
 ```
 
 For full API documentation and guides on PouchDB, see [PouchDB.com](http://pouchdb.com/). For details on PouchDB sub-packages, see the [Custom Builds documentation](http://pouchdb.com/custom.html).
