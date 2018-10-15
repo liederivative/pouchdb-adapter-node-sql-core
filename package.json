@@ -1,12 +1,12 @@
 {
   "_args": [
     [
-      "pouchdb-adapter-node-sql-core@7.0.1",
+      "pouchdb-adapter-node-sql-core@7.0.0",
       "C:\\Users\\Crestview\\sidenotes\\pending\\core-sql"
     ]
   ],
-  "_from": "pouchdb-adapter-node-sql-core@7.0.1",
-  "_id": "pouchdb-adapter-node-sql-core@7.0.1",
+  "_from": "pouchdb-adapter-node-sql-core@7.0.0",
+  "_id": "pouchdb-adapter-node-sql-core@7.0.0",
   "_inBundle": false,
   "_integrity": "sha512-NyMaH0bl20SdJdOCzd+fwXo8JZ15a48/MAwMcIbXzsRHE4DjFNlRcWAcjUP6uN4Ezc+Gx+r2tkBBMf71mIz1Aw==",
   "_location": "/pouchdb-adapter-node-sql-core",
@@ -14,18 +14,18 @@
   "_requested": {
     "type": "version",
     "registry": true,
-    "raw": "pouchdb-adapter-node-sql-core@7.0.1",
+    "raw": "pouchdb-adapter-node-sql-core@7.0.0",
     "name": "pouchdb-adapter-node-sql-core",
     "escapedName": "pouchdb-adapter-node-sql-core",
-    "rawSpec": "7.0.1",
+    "rawSpec": "7.0.0",
     "saveSpec": null,
-    "fetchSpec": "7.0.1"
+    "fetchSpec": "7.0.0"
   },
   "_requiredBy": [
     "/pouchdb-adapter-node-sql"
   ],
-  "_resolved": "https://registry.npmjs.org/pouchdb-adapter-node-sql-core/-/pouchdb-adapter-node-sql-core-7.0.1.tgz",
-  "_spec": "7.0.1",
+  "_resolved": "https://registry.npmjs.org/pouchdb-adapter-node-sql-core/-/pouchdb-adapter-node-sql-core-7.0.0.tgz",
+  "_spec": "7.0.0",
   "author": {
     "name": "Dale Harvey",
     "email": "dale@arandomurl.com"
