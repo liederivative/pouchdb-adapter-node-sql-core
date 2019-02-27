@@ -1,10 +1,4 @@
 {
-  "_args": [
-    [
-      "pouchdb-adapter-node-sql-core@7.0.0",
-      "C:\\Users\\Crestview\\sidenotes\\pending\\core-sql"
-    ]
-  ],
   "_from": "pouchdb-adapter-node-sql-core@7.0.0",
   "_id": "pouchdb-adapter-node-sql-core@7.0.0",
   "_inBundle": false,
@@ -59,5 +53,5 @@
     "type": "git",
     "url": "git+https://github.com/liederivative/pouchdb-adapter-node-sql-core.git"
   },
-  "version": "7.0.3"
+  "version": "7.0.4"
 }
